@@ -1,16 +1,14 @@
-### Hi there 👋
+# Quoi tu veux que je te parle de moi ? 😲
+**Très bien alors c'est parti ...**
 
-<!--
-**Goorroo/Goorroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Moi je m'appel Hector, je suis un petit nouveau**
+**dans le grand monde qu'est le développement ^^**
 
-Here are some ideas to get you started:
+**J'ai pratiqué jusqu'à présent plusieurs petits codes**
+**En HTML , Python et Js , mais je suis pas doué du tout**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*et il y a des gens qui me le rappellent h24 ...*
+
+**Mais , on a tous débuté un jour pas vrai ? 😅**
+
+## Différents logiciels que j'utilise un peu tous les jours : 🎓
