@@ -3,7 +3,7 @@
 - *Beginner in programming*
 - *I don't want to know your skills*
 - *I don't want to work with you*
-- *I don't want you to tell me about *
+- *I don't want you to tell me about*
 *your fucked up plans*
 - *I just want to learn some thing about*
 *the developpement ...*
