@@ -12,5 +12,7 @@
 
 **Goodbye ! 👋**
 
-
- 
+Résumé :
+VAS TE FAIRE FOUTRE ET LAISSES MOI DEV TRKL
+Mes sincères amitiés 
+Goorroo
