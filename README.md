@@ -1,5 +1,5 @@
 # About Me : 🚀
-**Goorroo , yeah that's my name just call me Goorroo please ...**
+**Bunz' , yeah that's my name just call me Bunz' please ...**
 - *Beginner in programming*
 - *I don't want to know your skills*
 - *I don't want to work with you*
@@ -11,8 +11,3 @@
 *And i'm working on a radio discord bot with discord.py .*
 
 **Goodbye ! 👋**
-
-Résumé :
-VAS TE FAIRE FOUTRE ET LAISSES MOI DEV TRKL
-Mes sincères amitiés 
-Goorroo
